@@ -1,4 +1,4 @@
-package com.java.test;
+package basic;
 
 public class MethodDemo {
 	// 主函数

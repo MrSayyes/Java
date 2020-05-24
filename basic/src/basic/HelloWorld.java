@@ -1,4 +1,4 @@
-package com.java.test;
+package basic;
 
 /**
  * 这是第一个程序

@@ -1,6 +1,5 @@
-# JUC（java.util.concurrent）
-
-一、集合不安全
-
+配套笔记在：
+Grocery-store的分支的Java学习【重要】下
+JVM、JUC
 
 

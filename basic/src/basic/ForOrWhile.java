@@ -1,4 +1,4 @@
-package com.java.test;
+package basic;
 
 public class ForOrWhile {
 	public static void main(String[] args) {
